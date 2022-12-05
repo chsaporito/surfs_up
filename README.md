@@ -1,28 +1,12 @@
 # Surfs Up
 ## Overview
-The purpose of the analysis is well defined. (3 pt)
+The purpose of the analysis is to determine the temperature differences between June and December in Oahu to see if it's worth keeping the ice cream store open all year.
 ## Results
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-- There is a 4° difference in average temperatures between June and December
+- There is a 4° difference in average temperatures between June and December with June having a mean temperature of ~75° and December having a mean temperature of 71°.
+- June has a minimum temperature of 64° and December has a minimum temperature of 56°.
+- There is a 4° difference in the Lower Quartiles and the Medians and a 3° difference in the Upper Quartiles between June and December with June having the higher temperatures.
 
-  December Temps
-    count	1517.000000
-    mean	71.041529
-    std	3.745920
-    min	56.000000
-    25%	69.000000
-    50%	71.000000
-    75%	74.000000
-    max	83.000000
-
-	June Temps
-    count	1700.000000
-    mean	74.944118
-    std	3.257417
-    min	64.000000
-    25%	73.000000
-    50%	75.000000
-    75%	77.000000
-    max	85.000000
 ## Summary:
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
+The temperatures between June and December generally show that there is only a 4° difference on average when looking at all the data including the quartile data.   
+-0.080459
+ 
